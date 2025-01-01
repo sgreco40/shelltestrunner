@@ -1,0 +1,1 @@
+Easy, repeatable testing of CLI programs/commands
