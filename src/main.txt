@@ -1,1 +1,2 @@
 Easy, repeatable testing of CLI programs/commands
+# match the style used in the rest of the module
